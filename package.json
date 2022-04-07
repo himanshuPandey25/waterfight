@@ -1,0 +1,14 @@
+{
+  "name": "water_fight_app",
+  "version": "1.0.0",
+  "description": "GCP hackathon",
+  "author": "riddler",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
